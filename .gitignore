@@ -1,0 +1,25 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+
+# Unit test / coverage reports 
+.cache 
+.pytest_cache/ 
+
+
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
